@@ -20,7 +20,7 @@ An interactive platform designed for video manipulation, offering features like 
 - Python [Certified by Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZRQ3QTAYLDC5)
 - Java
 - SQL
-- C (rudimentary)
+- C
 - Object-Oriented Design [Certified by Coursera](https://www.coursera.org/account/accomplishments/certificate/VTYJWPXUZ34U)
 - Design Patterns [Certified by Coursera](https://www.coursera.org/account/accomplishments/certificate/48YELGJ3WCD4)
 - Algorithms and Data Structures

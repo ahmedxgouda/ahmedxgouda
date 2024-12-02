@@ -3,9 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
 
-Welcome to my coding corner! I'm a junior software engineer from Egypt, currently navigating the Computer Science and Engineering world at Mansoura University. Embarking on my learning journey a year ago, I've been following the Open Source Society University (OSSU) curriculum with a keen focus on long-term gains and a passion for perpetual learning.
-
-This readme serves as a glimpse into my world of coding, where planning, design, and code converge to bring projects to life. Join me as I share my top projects, skills, and the ongoing chapters of my learning adventure.
+I'm a **Django backend developer** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BodyChat API**, and lifelong learning. 📚✨
 
 Let's dive in! 👨‍💻✨
 

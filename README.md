@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
 
-I'm a **Django backend developer** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BodyChat API**, and lifelong learning. 📚✨
+I'm a **Django backend developer** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BuddyChat API**, and lifelong learning. 📚✨
 
 Let's dive in! 👨‍💻✨
 
@@ -11,7 +11,6 @@ Let's dive in! 👨‍💻✨
 * Django
 * GraphQL
 * REST API
-* Authentication and Authorization
 
 ## Programming Languages
 <img src="https://github.com/user-attachments/assets/d51cdad2-8cab-41e8-b043-9f9ea5582a8d" width='30' />
@@ -30,19 +29,35 @@ Let's dive in! 👨‍💻✨
  ## Who am I?
  ```python
 class WhoAmI:
-  user = 'Ahmed Gouda'
-  current_work = 'Building APIs'
-  skills = ["Securing APIs", "Monitoring APIs", "OOP and OOD", "Design patterns", "Algorithms and Data Structures"]
-  strengths = ["Effective planning", "Fast learning", "Working under pressure"]
+    user = 'Ahmed Gouda'
+    current_work = 'Building APIs'
+    skills = ["Securing APIs", "Monitoring APIs", "OOP and OOD", "Design patterns", "Algorithms and Data Structures"]
+    strengths = ["Effective planning", "Fast learning", "Working under pressure"]
 
-  def get_projects():
-    return [
-      {
-        "Video Toolbox": {
-          "description": "An interactive platform designed for video manipulation, offering features like merging, clipping, converting, and embedding. Stay tuned for potential additional features!",
-          "repo-link": "https://github.com/ahmedxgouda/video-toolbox"
-        }
-        # other projects will be added
-      }
-    ]
- ```
+    def get_projects():
+        return [
+            Project(
+                name="BuddyChat",
+                description="A chat API that allows users to send messages to each other, with the ability to create groups and send messages to them. It also supports sending files and images.",
+                repo_link="https://github.com/ahmedxgouda/BuddyChat",
+                tech_stack=["Python", "Django", "MySQL", "GraphQL"],
+                working_on=True
+            ),
+            Project(
+                name="LittleLemonAPI",
+                description="An API that manages a restaurant's menu, orders, and customers. It also provides a dashboard for the restaurant owner to manage the restaurant.",
+                repo_link="https://github.com/ahmedxgouda/LittleLemon",
+                tech_stack=["Python", "Django", "MySQL", "Django REST framework"],
+            ),
+            Project(
+                name="Factory-System",
+                description="A system managing the production process in a factory, including managing orders, products, and employees.",
+                tech_stack=["Flutter", "PostgreSQL", "Supabase"],
+            ),
+            Project(
+                name="Video-Toolbox",
+                description="An interactive platform designed for video manipulation, offering features like merging, clipping, converting, and embedding. Stay tuned for potential additional features!",
+                repo_link="https://github.com/ahmedxgouda/video-toolbox"
+            ),
+        ]
+```

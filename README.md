@@ -38,10 +38,12 @@ class WhoAmI:
         return [
             Project(
                 name="BuddyChat",
-                description="A chat API that allows users to send messages to each other, with the ability to create groups and send messages to them. It also supports sending files and images.",
+                description="""The BuddyChat API is a GraphQL-based backend built with Django for real-time communication through private and group chats.
+                    It supports user management, authentication, notifications, and group features like admin roles, member handling, and archiving.
+                    Real-time updates are enabled via Django Channels, and advanced features include throttling, pagination, and filtering.
+                    Its /graphql endpoint provides a scalable foundation for modern chat applications.""",
                 repo_link="https://github.com/ahmedxgouda/BuddyChat",
-                tech_stack=["Python", "Django", "MySQL", "GraphQL"],
-                working_on=True
+                tech_stack=["Python", "Django", "MySQL", "GraphQL", "Graphene", "Django Channels", "Django Signals"],
             ),
             Project(
                 name="LittleLemonAPI",

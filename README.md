@@ -7,6 +7,8 @@ I'm a **Django backend developer** building scalable APIs and exploring tools li
 
 Let's dive in! 👨‍💻✨
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedxgouda&theme=darcula)
+
 ## :computer: Technologies I Love
 * Django
 * GraphQL

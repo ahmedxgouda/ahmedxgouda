@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
 
-I am a Full-Stack Developer. I contribute to @OWASP Nest and am currently building the NestBot Calendar Events Support feature. 🚀 Passionate about growth and lifelong learning, I’m also advancing my skills through the OSSU curriculum. 📚✨
+I am a Full-Stack Developer. I contribute to @OWASP Nest. 🚀 Passionate about growth and lifelong learning, I’m also advancing my skills through the OSSU curriculum. 📚✨
 
 Let's dive in! 👨‍💻✨
 
